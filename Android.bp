@@ -16,6 +16,12 @@ soong_namespace {
     ],
 }
 
+cc_library {
+    name: "libtinyxml2-v34",
+    vendor: true,
+    shared_libs: ["libtinyxml2"],
+}
+
 cc_prebuilt_library_shared {
     name: "eglSubDriverAndroid",
     owner: "xiaomi",
