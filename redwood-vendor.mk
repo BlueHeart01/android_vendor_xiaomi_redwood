@@ -1165,7 +1165,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND \
     HotwordEnrollmentXGoogleHEXAGON_WIDEBAND \
-    PowerOffAlarm \
     QtiTelephonyService \
     WfdService \
     dpmserviceapp \
